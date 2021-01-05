@@ -1,11 +1,17 @@
 ## Nvidia Gamestream Library Creation Tool
 
-![Screenshot](screenshot.png)
+This application populates a Nvidia Gamestream Shield library with games that did not add automatically to the list.
+
+![App demo](./img/screenshot_1.png)
 
 ## Instructions
 1. Drag'n'drop game shortcuts to window.
 2. Press `Generate`.
 3. If `Success` is shown, then it is done :)
+
+Result:
+
+![Result](./img/screenshot_2.png)
 
 ## References:
 1. https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-recognized-environment-variables
